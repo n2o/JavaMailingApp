@@ -2,5 +2,5 @@
 .idea
 *.iml
 *.txt
-*_modified.java
+src/*_modified.java
 out/*
