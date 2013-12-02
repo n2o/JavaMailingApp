@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+*.iml
+*.txt
+*_modified.java
+out/*
